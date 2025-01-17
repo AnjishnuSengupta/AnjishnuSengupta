@@ -8,7 +8,7 @@
 </p>
 
 ### 🤔 › Who are you?
-- I am a [Python](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [java](https://www.java.com/pt-BR/) developer, currently, I am focused on bots for [discord](https://discord.com/) and [jarvis](https://github.com/AnjishnuSengupta/Jarvis)
+- I am a [Full stack web developer](https://anjishnu-portfolio.netlify.app/), currently, I am focused on bots for [discord](https://discord.com/) and [jarvis](https://github.com/AnjishnuSengupta/Jarvis)
 ### 💻 › Which wrapper do you use?
 - Currently, I use the wrapper [eris](https://www.npmjs.com/package/eris), but I also know how to use [discord.js](https://www.npmjs.com/package/discord.js)
 ### ❓ › Can you help me?
