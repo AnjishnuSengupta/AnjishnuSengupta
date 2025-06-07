@@ -8,15 +8,15 @@
 </p>
 
 ### 🤔 › Who are you?
-- I am a [Full stack web developer](https://anjishnu-portfolio.netlify.app/), currently, I am focused on bots for [discord](https://discord.com/) and [jarvis](https://github.com/AnjishnuSengupta/Jarvis)
+- I am a [Full stack web developer](https://www.anjishnu.me), currently, I am focused on [NyAnime](https://www.nyanime.tech)
 ### 💻 › Which wrapper do you use?
 - Currently, I use the wrapper [eris](https://www.npmjs.com/package/eris), but I also know how to use [discord.js](https://www.npmjs.com/package/discord.js)
 ### ❓ › Can you help me?
-- Yes, I'm always in a good mood if you want some help you can add me on Discord: [**ワン・パンチ・マン#2718**](https://discord.com/users/767783141838159882)
+- Yes, I'm always in a good mood If you want some help, you can add me on Discord: [**ワン・パンチ・マン#2718**](https://discord.com/users/767783141838159882)
 ### 🔧 › Tools:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![JavaScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007acc)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007acc)
 ![Java](https://img.shields.io/badge/java-purple.svg?style=for-the-badge&logo=java&logoColor=%23D0A384)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
