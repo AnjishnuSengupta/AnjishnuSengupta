@@ -25,11 +25,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![TailWind](https://img.shields.io/badge/tailwind-0078d7?style=for-the-badge&logo=tailwind&logoColor=white)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=AnjishnuSengupta&theme=monokai)
+![Trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=AnjishnuSengupta&theme=monokai)
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnjishnuSengupta&show_icons=true&theme=dark&layout=compact" alt="git-status" class="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjishnuSengupta&theme=dark&layout=compact&langs_count=7" alt="top-langs" class="center">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=AnjishnuSengupta&show_icons=true&theme=monokai&layout=compact" alt="git-status" class="center">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnjishnuSengupta&theme=monokai&layout=compact&langs_count=7" alt="top-langs" class="center">
     <br />
 </p>
 
